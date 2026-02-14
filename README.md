@@ -1,5 +1,3 @@
-# rorisummit.final
-final one 
 [rorisummit.html.txt](https://github.com/user-attachments/files/25310668/rorisummit.html.txt)
 <!DOCTYPE html>
 <html lang="en">
